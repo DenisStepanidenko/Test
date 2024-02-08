@@ -10,6 +10,6 @@ public class Main {
         System.out.println(test.getName());
     }
     public static void change(Person person){
-        person.setName("new Den functional from matvet form dfffe new commit from matvey new commit hello from denis byDefault");
+        person.setName("from denis");
     }
 }
