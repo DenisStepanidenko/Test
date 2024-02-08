@@ -10,6 +10,6 @@ public class Main {
         System.out.println(test.getName());
     }
     public static void change(Person person){
-        person.setName("new Den functional from matvet form de");
+        person.setName("new Den functional from matvet form dffffe");
     }
 }
